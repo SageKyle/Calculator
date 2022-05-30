@@ -20,7 +20,7 @@ This is a lightweight and fast calculator built with only HTML, CSS and Javascri
 
 ### Links
 
-- Live Site hosted on Github pages: [Here](https://sagekyle.github.io/calculator/)
+- Live Site hosted on Github pages: [Here](https://sagekyle.github.io/Calculator/)
 
 ## My process
 
