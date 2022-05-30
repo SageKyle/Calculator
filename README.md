@@ -15,12 +15,12 @@
 
 ### Intro
 
-This is a lightweight and fast calculator built with only HTML, CSS and Javascript that is both installable and works offline.
+This is a lightweight and fast calculator built with only HTML, CSS and Javascript that is both installable and works offline. 🚀📲
 
 
 ### Links
 
-- Live Site hosted on Github pages: [Here](https://sagekyle.github.io/calculator)
+- Live Site hosted on Github pages: [Here](https://sagekyle.github.io/calculator/)
 
 ## My process
 
