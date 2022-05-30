@@ -70,10 +70,7 @@ body {
     transition: all 50ms ease-in;
 }
 
-.box:hover {
-    transform: translateY(-.5rem);
-    background-color: var(--dark-blue);
-}
+.box:hover {transform: translateY(-.5rem);}
 
 .box:active {
     transform: translateY(.5rem);
