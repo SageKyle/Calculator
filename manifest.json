@@ -1,6 +1,6 @@
 {
     "name": "Lite Calculator",
-    "short_name": "Calculator",
+    "short_name": "Lite Calculator",
     "icons": [
         {
             "src": "./assets/android-chrome-192x192.png",

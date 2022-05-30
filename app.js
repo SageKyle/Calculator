@@ -37,12 +37,12 @@ for (let button of controlButtons) {
         if (btnValue === 'C') {
             firstValue = secondValue = symbol = ''
             return display.innerText = ''
-        }
+        };
 
         // BACKSPACE FUNCTIONALITY
         if (btnValue === 'DEL') {
             return display.innerText = display.innerText.slice(0, -1)
-        }
+        };
 
         // PERFORM CALCULATION IF THERE IS A FIRST NUMBER, AN OPERATOR AND A SECOND NUMBER
         if (firstValue !== '' && btnValueIsSymbol) {
